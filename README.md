@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Archit-IITM
+- 👀 I’m interested in use of AI in real-world applications, fabricating modern solutions for complex problems
+- 🌱 I’m currently learning bash, frontend development, and machine learning
+- 💞️ I’m looking to collaborate on niche projects that cater to solving some particular problem
+- 📫 How to reach me: via GitHub
